@@ -1,0 +1,17 @@
+#https://pnpm.io/
+
+# 使用tab缩进还是空格缩进
+useTabs: false
+# tab是空格的情况下，是几个空格
+tabWidth: 2
+# 当行字符的长度
+printWidth: 80
+# 使用单引号还是双引号
+singleQuote: true
+# 在多行输入的尾逗号是否添加
+trailingComma: none
+htmlWhitespaceSensitivity: 'strict'
+proseWrap: 'never'
+vueIndentScriptAndStyle: true
+# 语句末尾是否要加分号
+semi: false
