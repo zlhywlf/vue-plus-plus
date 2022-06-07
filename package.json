@@ -14,9 +14,9 @@
     "clean:lib": "rimraf node_modules && rimraf dist"
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.5",
     "axios": "^0.27.2",
-    "element-plus": "^2.2.4",
-    "vue": "^3.2.25",
+    "vue": "^3.2.29",
     "vue-router": "^4.0.13",
     "vuex": "^4.0.2"
   },
