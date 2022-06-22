@@ -7,7 +7,6 @@
   <img alt="Vue logo" src="./assets/logo.svg" />
   <RouterLink to="/main">main</RouterLink>
   <RouterLink to="/login">login</RouterLink>
-  
   <RouterView />
 </template>
 
