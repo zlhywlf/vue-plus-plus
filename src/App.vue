@@ -8,6 +8,7 @@
   <RouterLink to="/main">main</RouterLink>
   <RouterLink to="/login">login</RouterLink>
   <RouterView />
+  
 </template>
 
 <style>
